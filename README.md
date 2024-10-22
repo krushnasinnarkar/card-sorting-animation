@@ -1,9 +1,6 @@
-Here's a simple `README.md` file template for a React app GitHub repository:
+# Card Sorting Animation
 
-```markdown
-# React App
-
-This is a simple React application.
+This is a simple React application for Card Sorting Animation.
 
 ## Getting Started
 
@@ -19,13 +16,13 @@ Follow the instructions below to run the project locally.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/krushnasinnarkar/card-sorting-animation.git
    ```
 
 2. Navigate into the project directory:
 
    ```bash
-   cd your-repo-name
+   cd card-sorting-animation
    ```
 
 3. Install the dependencies:
